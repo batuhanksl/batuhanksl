@@ -2,7 +2,11 @@
 
 ### 👨‍💻 Languages I Use
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batuhanksl&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batuhanksl&layout=compact&theme=dark)
+
+### 📊 GitHub Stats
+
+![Batuhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=batuhanksl&show_icons=true&theme=default)
 
 <!--
 **batuhanksl/batuhanksl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
