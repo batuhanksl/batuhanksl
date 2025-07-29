@@ -1,24 +1,25 @@
 ## Hi there 👋
 
-### 👨‍💻 Languages I Use
+### 👨‍💻 Languages I Use (Private Work Summary)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batuhanksl&layout=compact&theme=dark)
+| Language      | Usage (%) | Projects                         |
+|---------------|-----------|----------------------------------|
+| Python        | 80%       | Django, automation, 3D modeling |
+| JavaScript    | 20%       | React, React Three Fiber         |
 
-### 📊 GitHub Stats
+<sub>Includes only private repositories and commercial projects.</sub>
 
-![Batuhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=batuhanksl&show_icons=true&theme=dark)
+---
 
-<!--
-**batuhanksl/batuhanksl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 GitHub Stats (Private Summary)
 
-Here are some ideas to get you started:
+| Metric                | Value              |
+|-----------------------|--------------------|
+| 🛠️ Repositories       | 12 private         |
+| 🔁 Total Commits      | ~4,500 (est.)      |
+| 🚀 Technologies       | 3D Engines, CAD, CI/CD |
+| 🧩 Stack              | Python, JS/TS, R3F, Three.js, Django|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+> 🧪 Working on elevator digitalization platform with full-stack tools and advanced 3D rendering.
